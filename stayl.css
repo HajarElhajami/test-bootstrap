@@ -1,0 +1,21 @@
+*{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+header{
+    height: 90px;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+form{
+    width: 500px;
+    height: 400px;
+}
+
+.div-1:hover { 
+    color: white; 
+}
